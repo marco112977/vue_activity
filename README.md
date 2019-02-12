@@ -1,6 +1,6 @@
 # vue_activity
 
-> A Vue.js project
+> 单活动页面开发，响应式布局
 
 ## Build Setup
 
